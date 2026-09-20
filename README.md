@@ -16,16 +16,18 @@
 
 <!-- About Me -->
 
+<!-- About Me -->
+
 <table align="center">
   <tr>
     <td align="center" width="200">
-      <img src="./images/profile.jpg" width="150" alt="Soumyashree Panda" />
+      <img src="./github-pfp.png" width="200" alt="Soumyashree Panda" />
     </td>
     <td>
       <img src="https://img.shields.io/badge/💬_About_Me-282a36?style=for-the-badge" alt="About Me" /><br>
       <samp>
         👋 <b>Hey! I'm SoumyashreePanda</b>, a Computer Science student.<br>
-        💻 Currently learning programming, web development & DSA.<br>
+        💻 Currently learning- programming, web development & DSA.<br>
         🤖 Exploring Artificial Intelligence & Machine Learning.<br>
         🛠️ Building projects while improving my technical skills.<br>
         🌱 Always learning, experimenting, and growing.
@@ -39,7 +41,7 @@
 <!-- GitHub Streak -->
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=false" height="150" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=soumya-shree-panda&theme=dark&hide_border=false" height="150" alt="GitHub Streak" />
 </div>
 
 <br>
